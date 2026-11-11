@@ -31,7 +31,7 @@ Elle s'appuie sur le helper **Planning** (`schedule.xxx`) de Home Assistant : le
 ### Avec HACS (recommandé)
 
 1. Dans HACS, ouvrez le menu ⋮ puis **Dépôts personnalisés**.
-2. Ajoutez `https://github.com/VOTRE-PSEUDO/planning-semaine-card` avec la catégorie **Tableau de bord** (*Dashboard*).
+2. Ajoutez `https://github.com/Daditj/planning-semaine-card` avec la catégorie **Tableau de bord** (*Dashboard*).
 3. Téléchargez **Planning hebdomadaire**, puis rechargez le navigateur (`Ctrl + F5`).
 
 ### Manuellement
